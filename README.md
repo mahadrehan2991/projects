@@ -52,7 +52,4 @@ This method ensures that when a user revisits the website, their previous theme 
 
 ## Deployment
 
-The project is deployed and can be accessed online at: https://ozanboran.github.io/Light-Dark-Mode/
-
-## Credits
-- **Developer:** Ozan Boran
+The project is deployed
